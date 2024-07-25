@@ -23,5 +23,5 @@ We are by Nørth, a web development studio specializing in creating stunning onl
 * CI/CD
 
 ### Contact Us
-[j@bynorth.dev]
-[www.bynorth.dev]
+j@bynorth.dev
+www.bynorth.dev
