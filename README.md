@@ -1,2 +1,2 @@
-# .github
-Github base repo for by Nørth.
+# by Nørth
+by Nørth is the brand name used for projects of web developer Joern Bargmann.
