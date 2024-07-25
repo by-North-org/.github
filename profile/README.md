@@ -1,12 +1,27 @@
-# by Nørth 👋
+## by Nørth
 
-<!--
+**Crafting Digital Experiences for Creative Minds**
 
-**Here are some ideas to get you started:**
+We are by Nørth, a web development studio specializing in creating stunning online platforms for architects and design companies. We understand the unique needs of the creative industry and deliver tailored solutions that reflect your brand's vision.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our Work
+
+* [LAN Architecture, Paris](www.lan-paris.com)
+* [Caleido, Brescia](www.caleido.it)
+* [Undo-Redo](www.undo-redo.com)
+
+### Services Offered
+* Front end development
+* Content management systems integration
+* Data modelling
+* SEO optimization
+
+### Tech Stack
+* HTML
+* CSS
+* SCSS
+* CI/CD
+
+### Contact Us
+[j@bynorth.dev]
+[www.bynorth.dev]
