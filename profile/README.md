@@ -24,4 +24,4 @@ We are by Nørth, a web development studio specializing in creating stunning onl
 
 ### Contact Us
 * j@bynorth.dev
-* www.bynorth.dev
+* built.bynorth.dev
