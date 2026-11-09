@@ -7,7 +7,6 @@ We are by Nørth, a web development studio specializing in creating stunning onl
 ### Our Work
 
 * [LAN Architecture, Paris](www.lan-paris.com)
-* [Caleido, Brescia](www.caleido.it)
 * [Undo-Redo](www.undo-redo.com)
 
 ### Services Offered
